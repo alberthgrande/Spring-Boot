@@ -1,0 +1,7 @@
+#configure application name
+string:
+  application:
+    name: demoApplication
+
+server:
+  port: 8081

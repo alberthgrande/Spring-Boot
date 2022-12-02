@@ -1,0 +1,12 @@
+# configure application name
+#spring:
+#  application:
+#    name: demoApplication
+
+# configure server
+#server:
+#  port: 8081
+
+app:
+  name: AppDemo
+  version: 1.0
